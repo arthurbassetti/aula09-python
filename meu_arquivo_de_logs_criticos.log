@@ -1,0 +1,4 @@
+2024-05-24T11:38:18.577445-0300 INFO Chamando função 'soma' com args (2, 3) e kwargs {} utils_log.py
+2024-05-24T11:38:18.578436-0300 INFO Função 'soma' retornou 5 utils_log.py
+2024-05-24T13:02:12.785685-0300 INFO Chamando função 'soma' com args (2, 3) e kwargs {} utils_log.py
+2024-05-24T13:02:12.786685-0300 INFO Função 'soma' retornou 5 utils_log.py

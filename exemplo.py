@@ -1,13 +1,8 @@
-from loguru import logger
+from timer import time_measure_decorator
 
 
-logger.add("logerrors.log")
-
+@time_measure_decorator
 def soma (x,y):
-
-    logger.info(x)
-    logger.info(y)
-    logger.info(x+y)
 
     return x+y
 
